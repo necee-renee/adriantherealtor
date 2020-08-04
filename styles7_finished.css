@@ -98,7 +98,7 @@ body {
 .hero-box {
 	height: 400px;
 	background-color: #FFFFFF;
-	background-image: url("images/Houston Skyline.png");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/Houston Skyline.png");
 	background-size: cover;
 	margin: 1%;
 }
